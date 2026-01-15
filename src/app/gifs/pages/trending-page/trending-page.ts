@@ -1,7 +1,7 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 
 @Component({
-  selector: 'app-trending-page',
+  selector: 'trending-page',
   imports: [],
   templateUrl: './trending-page.html',
 })
